@@ -1,5 +1,7 @@
 Rencana Belajar
 
 -Android dev
+  *flutter
+  *dll
 -Golang
 -dll
