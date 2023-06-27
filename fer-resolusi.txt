@@ -3,3 +3,4 @@ FER RESOLUSI
 - web dev dan android dev
 - coba project
 - hasilkan uang
+- buat web sendiri
